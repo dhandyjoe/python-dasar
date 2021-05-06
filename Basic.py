@@ -4,7 +4,9 @@ print("Hello Worlds")
 print(" ")
 print("-------------------------")
 
-msg = input("What your name? ")
+# Function 'input' digunakan untuk melakukan aksi input user
+# Sama seperti halnya Scanner di java
+msg = input("What your name? ") 
 print("Hello " + msg)
 
 print(" ")
